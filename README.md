@@ -1,23 +1,25 @@
-# Aero UI
+# ClassUp
 
-Aero UI evokes a sense of lightness, fluidity, and sophistication based on the TailwindCSS principles 🌊.
+Sistema escolar moderno, feito com foco em performance, organização e usabilidade. Desenvolvido com tecnologias modernas como React, Next.js, TypeScript e TailwindCSS ✨.
 
 ## ✨ Visão Geral
 
-Aero UI é uma biblioteca de componentes reutilizáveis feita com foco em design elegante e fluidez, usando os princípios do TailwindCSS. Ideal para aplicações em React e React Native, promovendo produtividade e consistência visual.
+O ClassUp é uma plataforma de gestão escolar voltada para instituições de ensino que desejam digitalizar processos e facilitar a comunicação entre professores, alunos e responsáveis. Possui interface intuitiva e componentes reutilizáveis, com base no TailwindCSS e React.
 
 ## 🚀 Tecnologias Utilizadas
 
 - **React**
-- **React Native**
+- **Next.js**
 - **TypeScript**
 - **TailwindCSS**
+- **Node.js**
 - **Yarn**
-- **Jest**
-- **Testing Library**
+- **Prisma**
+- **Jest / Testing Library**
 
 ## 📦 Instalação
 
 ```bash
-yarn add aero-ui
-
+git clone https://github.com/seu-usuario/classup.git
+cd classup
+yarn install
